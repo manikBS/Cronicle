@@ -1,0 +1,35 @@
+{
+    "type": "list_page",
+    "items": [
+        {
+            "timezone": "America/New_York",
+            "holidays": ["02-09-2023", "02-28-2023", "03-03-2023"],
+            "holidayFormat": "MM-DD-YYYY",
+            "workingWeekdays": [1, 2, 3, 4, 5]
+        },
+        {
+            "timezone": "Asia/Calcutta",
+            "holidays": ["05-05-2023", "05-02-2023", "02-10-2023"],
+            "holidayFormat": "MM-DD-YYYY",
+            "workingWeekdays": [1, 2, 3, 4, 5]
+        },
+        {
+            "timezone": "Japan",
+            "holidays": ["05-04-2023", "02-22-2023", "02-10-2023"],
+            "holidayFormat": "MM-DD-YYYY",
+            "workingWeekdays": [1, 2, 3, 4, 5]
+        },
+        {
+            "timezone": "Singapore",
+            "holidays": ["02-09-2023", "02-12-2023", "02-10-2023"],
+            "holidayFormat": "MM-DD-YYYY",
+            "workingWeekdays": [1, 2, 3, 4, 5, 6]
+        },
+        {
+            "timezone": "Europe/London",
+            "holidays": ["02-09-2023", "02-12-2023", "02-10-2023"],
+            "holidayFormat": "MM-DD-YYYY",
+            "workingWeekdays": [1, 2, 3, 4, 5, 6]
+        }
+    ]
+}
